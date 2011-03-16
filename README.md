@@ -55,7 +55,7 @@ It includes a list of country codes:
 	{"id":"GB","value":"United Kingdom"},
 	{"id":"AR","value":"Argentina"}
 
-... a list if language codes :
+... a list if of language codes :
 
 	"ak" : {
         "name" : "Akan ",
@@ -70,5 +70,5 @@ It includes a list of country codes:
 
 Disclaimer & Contributing
 ----
-Country names have not been written by myself but come in most cases from wikipedia. They are not guaranteed to be 100% politically correct.
-If you spot a problem, a typo or a missing country, feel free to open a bug or do a pull request.
+Country names have not been written by myself and come - in most cases - from Wikipedia. They are not guaranteed to be 100% politically correct.
+If you spot a problem, a typo or a missing country, feel free to open a ticket or do a pull request.
