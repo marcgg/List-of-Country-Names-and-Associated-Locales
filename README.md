@@ -3,6 +3,14 @@ List of Country Names and Associated Locales
 
 Provides various JSON files with links determining what language is spoken in what country based on data from Wikipedia.
 
+Run It
+----
+You can either use the data already generated (in the /output folder) or pull the repository and run it yourself.
+
+In order to run it on your computer, you'll need Ruby installed. Once you have this, simply call:
+
+	$ ruby parse_locales.rb
+
 Output
 ----
 You can find this data in the output folder.
