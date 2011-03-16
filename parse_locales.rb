@@ -101,7 +101,6 @@ module LanguageParserHelper
     country_codes.each do |code|
       return code["id"] if code["value"] == name
     end
-    puts "Invalid country code => #{name}"
     return nil
   end
 end
