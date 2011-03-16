@@ -47,7 +47,7 @@ It includes a list of country codes:
 	{"id":"GB","value":"United Kingdom"},
 	{"id":"AR","value":"Argentina"}
 
-a list if language codes :
+... a list if language codes :
 
 	"ak" : {
         "name" : "Akan ",
@@ -58,4 +58,9 @@ a list if language codes :
         "nativeName" : "Shqip "
     }
 
-and various other usefull data from Facebook and Wikipedia.
+... and various other useful data from Facebook and Wikipedia.
+
+Disclaimer & Contributing
+----
+Country names have not been written by myself but come in most cases from wikipedia. They are not guaranteed to be 100% politically correct.
+If you spot a problem, a typo or a missing country, feel free to open a bug or do a pull request.
